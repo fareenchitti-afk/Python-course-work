@@ -9,6 +9,9 @@ for var in range (start,end+1,step):
 for i in range(len(seq)):
     # #stmts
 seq: list,tuple,set,dict,str,range()
+var dec
+while condition:
+#stmts
 '''
 #.list
 
@@ -62,5 +65,15 @@ for i in range (20,0,-1):
 l=['laptop','mouse','charger','keyboard']
 for i in range (len(l)):
     print(i,l[i])
+moves=45
+while moves>0:
+    print(f'{moves}moves left')
+    moves==1
+    while true:
+        ch=input("Enter the choice")
+        if ch=='stop':
+            break
+        
+
 
     
