@@ -1,4 +1,4 @@
-n = int(input("Enter the number of messages: "))
+                                                                                                                                                                                                                                     n = int(input("Enter the number of messages: "))
 data = {}
 
 for i in range(n):
